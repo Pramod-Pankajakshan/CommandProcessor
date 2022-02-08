@@ -7,10 +7,6 @@ import main.java.dep.Module;
 import static java.util.stream.Collectors.toSet;
 
 
-/**
- * Created by IntelliJ IDEA.
- * User: christian
- */
 public class RemoveCommand implements Command {
 
     @Override
