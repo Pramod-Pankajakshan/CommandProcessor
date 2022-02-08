@@ -2,11 +2,7 @@ package main.java.dep;
 
 import java.util.*;
 
-/**
- * Created by IntelliJ IDEA.
- *
- * @author christian bongiorno
- */
+
 public class Module {
     protected static Map<String, Module> dependencyMap = new HashMap<String, Module>();
 
