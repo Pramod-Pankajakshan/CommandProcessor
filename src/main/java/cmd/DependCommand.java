@@ -7,10 +7,7 @@ import java.util.Map;
 
 import main.java.dep.Module;
 
-/**
- * Created by IntelliJ IDEA.
- * User: christian
- */
+
 public class DependCommand implements Command {
 
 
