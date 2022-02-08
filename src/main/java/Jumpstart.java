@@ -6,16 +6,7 @@ import main.java.cmd.*;
 import java.io.*;
 import java.util.*;
 
-/*
- * main.Jumpstart
- */
 
-/**
- * Class which will read input from the console, and call the appropriate
- * command.
- *
- * @author interview
- */
 public class Jumpstart {
 
     /**
