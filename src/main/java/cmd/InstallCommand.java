@@ -7,11 +7,7 @@ import java.util.Map;
 
 import main.java.dep.Module;
 
-/**
- * Created by IntelliJ IDEA.
- * User: christian
- * To change this template use File | Settings | File Templates.
- */
+
 public class InstallCommand implements Command {
 
     @Override
